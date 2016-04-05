@@ -9,5 +9,6 @@
  * @author 1-DAM-T
  */
 public class Ramon {
+    int ramoncin;
     
 }
