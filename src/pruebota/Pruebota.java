@@ -16,6 +16,7 @@ public class Pruebota {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int hola;
     }
     
 }
