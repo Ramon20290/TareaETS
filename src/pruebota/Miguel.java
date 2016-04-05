@@ -10,5 +10,6 @@ package pruebota;
  * @author 1-DAM-T
  */
 public class Miguel {
+    int miguelito;
     
 }
